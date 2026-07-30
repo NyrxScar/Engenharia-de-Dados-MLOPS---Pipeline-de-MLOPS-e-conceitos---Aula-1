@@ -1,0 +1,6 @@
+{
+    "nome_aluna":"Nyrx",
+    "limpar_dados_nulos": true,
+    "tamanho_treino_porcentagens": 70,
+    "fator_qualidade_modelo":1.2
+}
